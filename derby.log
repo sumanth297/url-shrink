@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 22 10:13:20 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-41c4-dac7-0000140fd7e0 
+on database directory memory:/home/sumanthug/Videos/spring-boot-shrinker/testdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/sumanthug/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_362-8u362-ga-0ubuntu1~20.04.1-b09
+user.dir=/home/sumanthug/Videos/spring-boot-shrinker
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-67-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
